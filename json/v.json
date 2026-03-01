@@ -1,0 +1,118 @@
+{
+    "0": {
+        "type": "normal",
+        "actions": [
+            {
+                "type": "key_press",
+                "time": 1.4167520999908447,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 1.544304370880127,
+                "key": "'v'"
+            },
+            {
+                "type": "key_press",
+                "time": 1.888958215713501,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 2.0165112018585205,
+                "key": "'v'"
+            },
+            {
+                "type": "key_press",
+                "time": 2.4722158908843994,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 2.59226393699646,
+                "key": "'v'"
+            },
+            {
+                "type": "key_press",
+                "time": 2.984452724456787,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 3.097008228302002,
+                "key": "'v'"
+            },
+            {
+                "type": "key_press",
+                "time": 3.4961774349212646,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 3.624274253845215,
+                "key": "'v'"
+            }
+        ],
+        "loops": -1,
+        "parallel": true,
+        "enabled": true
+    },
+    "__legacy__": {
+        "type": "normal",
+        "actions": [
+            {
+                "type": "key_press",
+                "time": 1.4167520999908447,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 1.544304370880127,
+                "key": "'v'"
+            },
+            {
+                "type": "key_press",
+                "time": 1.888958215713501,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 2.0165112018585205,
+                "key": "'v'"
+            },
+            {
+                "type": "key_press",
+                "time": 2.4722158908843994,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 2.59226393699646,
+                "key": "'v'"
+            },
+            {
+                "type": "key_press",
+                "time": 2.984452724456787,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 3.097008228302002,
+                "key": "'v'"
+            },
+            {
+                "type": "key_press",
+                "time": 3.4961774349212646,
+                "key": "'v'"
+            },
+            {
+                "type": "key_release",
+                "time": 3.624274253845215,
+                "key": "'v'"
+            }
+        ],
+        "loops": -1,
+        "parallel": false,
+        "enabled": true
+    }
+}
