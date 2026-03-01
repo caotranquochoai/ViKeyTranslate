@@ -30,17 +30,8 @@ jobs:
       - name: Build Windows Executable (.exe)
         run: flutter build windows
 
-      - name: Create MSIX package (.msix)
-        run: dart run msix:create
-
       - name: Upload EXE Release
         uses: actions/upload-artifact@v4
         with:
           name: ViKeyTranslate_v1.0-windows-executable
           path: build\windows\x64\runner\Release\keyboard_translator.exe
-
-      - name: Upload MSIX Package
-        uses: actions/upload-artifact@v4
-        with:
-          name: ViKeyTranslate_v1.0-windows-msix
-          path: build\windows\x64\runner\Release\*.msix
