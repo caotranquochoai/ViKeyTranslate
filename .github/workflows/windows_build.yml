@@ -34,4 +34,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ViKeyTranslate_v1.0-windows-executable
-          path: build\windows\x64\runner\Release\keyboard_translator.exe
+          path: build\windows\x64\runner\Release\*
